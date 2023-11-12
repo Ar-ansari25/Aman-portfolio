@@ -27,8 +27,8 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}> I am Aman Raza </span>
-          <span>SOFTWARE ENGINEER</span>
+          <span style={{ color: darkMode ? "white" : "" }}> I am </span>
+          <span>AMAN RAZA</span>
           <span>
           " I'm a passionate and versatile Full Stack Developer and UI/UX Designer, dedicated to creating exceptional digital experiences. With a deep understanding of both the technical and visual aspects of web development, I strive to deliver seamless, intuitive, and visually stunning solutions that captivate users and drive results. "
           </span>
