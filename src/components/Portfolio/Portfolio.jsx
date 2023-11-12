@@ -28,7 +28,7 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <a href="https://personal-portfolio-master-rust.vercel.app/">
+          <a href="https://aman-portfolio-ten.vercel.app/">
             <img src={Port} alt="" />
           </a>
         </SwiperSlide>
